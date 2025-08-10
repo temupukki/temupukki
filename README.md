@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Temesgen
 
-<!--
-**temupukki/temupukki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused developer passionate about workflow automation, BPMN systems, and scalable enterprise solutions. I thrive on solving complex problems and crafting elegant, user-centric applications.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- Docker, Camunda, Bonita BPM
+- Next.js, Tailwind CSS, ShadCN UI
+- PostgreSQL, Prisma, Maven
+- PDF generation, API integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Loan origination workflows
+- Document management in Bonita BPM
+- Dynamic UI design with drag-and-drop features
+
+## 📫 Let's Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/)
+- 📧 temesgen@example.com
