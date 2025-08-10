@@ -19,7 +19,7 @@
 
 ---
 
-##📝About Me
+## 📝About Me
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1em; max-width: 700px; margin: 0 auto; text-align: center; line-height: 1.6;">
 Hi 👋!  I'm Temesgen, a full-stack developer dedicated to building impactful solutions. My expertise spans from designing clean, intuitive front-end interfaces to engineering robust and scalable backend systems. I'm always open to new challenges and passionate about collaborating on projects that make a real difference. I believe that great code and thoughtful design go hand-in-hand to create truly exceptional user experiences
 </p>
