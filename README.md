@@ -60,18 +60,17 @@ Hi 👋!  I'm Temesgen, a full-stack developer dedicated to building impactful s
 
 ---
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=radical&border_radius=15"
-    alt="GitHub Stats"
-    style="width: 40%; height: 200px ;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=radical&border_radius=15"
-    alt="Top Languages"
-    style="width: 40%; height:auto ;"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=radical&border_radius=15" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=radical&border_radius=15" width="400" />
+    </td>
+  </tr>
+</table>
+
 
 
 
