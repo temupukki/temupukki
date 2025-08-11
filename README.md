@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=temupukki&style=for-the-badge" alt="Profile Views" />
+ 
 </p>
 
 ---
@@ -60,8 +60,19 @@ Hi 👋!  I'm Temesgen, a full-stack developer dedicated to building impactful s
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</p>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=radical&border_radius=15"
+    alt="GitHub Stats"
+    style="width: 40%; height: 200px ;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=radical&border_radius=15"
+    alt="Top Languages"
+    style="width: 40%; height:auto ;"
+  />
+</div>
+
+
+
+
