@@ -1,77 +1,96 @@
-<span> <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; margin-top: 10px; margin-bottom: 5px;">Temesgen Gashaw</h1>  <a href="https://portfolio-website-azure-xi.vercel.app/" style="text-decoration:none; color:#0366d6; font-weight:600;">
-      Portfolio
-    </a></span>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/98555981/168470533-3112c3e1-874b-48ce-8f3f-4e082823620f.gif" alt="Hi there, I'm Temesgen" style="max-width: 100%; height: auto;"/>
   
+  <h1 style="border-bottom: 2px solid #007acc; padding-bottom: 5px;">Temesgen Gashaw</h1>
+  
+  <p>
+    <a href="https://portfolio-website-azure-xi.vercel.app/" style="text-decoration:none; color:#0366d6; font-weight:600;">
+      ✨ View My Portfolio ✨
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/temesgen-gashaw-280827328" target="_blank" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="mailto:temesgengashaw8@example.com" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://t.me/Pukkival" target="_blank" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/temesgen-gashaw-280827328" style="margin:0 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+---
+
+## 🚀 About Me
+
+I'm **Temesgen**, a passionate **Full-Stack Developer** dedicated to building impactful, scalable solutions. My expertise spans the entire development lifecycle, from designing **clean, intuitive front-end interfaces** to engineering **robust and high-performance backend systems**.
+
+I thrive on new challenges and believe that great code and thoughtful design go hand-in-hand to create truly exceptional **user experiences (UX)**. I'm always looking for opportunities to collaborate on projects that make a real difference.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### **Frontend & Core Languages**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" height="80" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="80" height="80" alt="Vite" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" />
+</div>
+
+### **Backend, Database & ORM**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="80" height="80" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" height="80" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="80" height="80" alt="Prisma" />
+</div>
+
+### **Other Languages (Strong Fundamentals)**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" height="80" alt="Go" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80" alt="MATLAB" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/temupukki">
+    <img src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=buefy&hide_border=true&border_radius=15" alt="Temesgen's GitHub Stats" style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
-  <a href="mailto:temesgengashaw8@example.com" style="margin:0 5px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/temupukki">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=buefy&hide_border=true&border_radius=15" alt="Top Languages" style="margin-bottom: 10px;" />
   </a>
-  <a href="https://t.me/Pukkival" style="margin:0 5px;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</div>
+
+---
+
+<div align="center">
+  <p>
+    Connect with me or check out my work! 👇
+  </p>
+  <a href="https://linkedin.com/in/temesgen-gashaw-280827328" target="_blank" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-
- 
-</p>
-
----
-
-## 📝About Me
-<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1em; max-width: 700px; margin: 0 auto; text-align: center; line-height: 1.6;">
-Hi 👋!  I'm Temesgen, a full-stack developer dedicated to building impactful solutions. My expertise spans from designing clean, intuitive front-end interfaces to engineering robust and scalable backend systems. I'm always open to new challenges and passionate about collaborating on projects that make a real difference. I believe that great code and thoughtful design go hand-in-hand to create truly exceptional user experiences
-</p>
-
----
-
-## 🛠 Tech Stack
-
-### **Languages**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="140" height="80" alt="JavaScript" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="140" height="80" alt="TypeScript" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="140" height="80" alt="Python" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="140" height="80" alt="Java" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="140" height="80" alt="Go" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="140" height="80" alt="HTML5" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="140" height="80" alt="CSS3" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="100" height="70" alt="CSS3" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); alt="MATLAB" />
-   
-</p>
-
----
-
-### **Frameworks & Libraries**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="140" height="80" alt="React" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="140" height="80" alt="Next.js" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="140" height="80" alt="Redux" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="140" height="80" alt="Vite" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="140" height="80" alt="Tailwind CSS" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="140" height="80" alt="Node.js" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="140" height="80" alt="Express.js" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="140" height="80" alt="GraphQL" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="140" height="80" alt="PostgreSQL" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="140" height="80" alt="SQLite" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="140" height="80" alt="Prisma" style="margin: 10px; background: #1e1e1e; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</p>
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=radical&border_radius=15" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=radical&border_radius=15" width="400" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
+  <a href="mailto:temesgengashaw8@example.com" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfolio-website-azure-xi.vercel.app/" target="_blank" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
+  </a>
+</div>
