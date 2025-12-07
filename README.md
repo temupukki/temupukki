@@ -4,8 +4,8 @@
   <h1 style="border-bottom: 2px solid #007acc; padding-bottom: 5px;">Temesgen Gashaw</h1>
   
   <p>
-    <a href="https://portfolio-website-azure-xi.vercel.app/" style="text-decoration:none; color:#0366d6; font-weight:600;">
-      ✨ View My Portfolio ✨
+    <a href="https://portfolio-website-azure-xi.vercel.app/" style="text-decoration:none; color:#007acc; font-weight:600;">
+       View My Portfolio
     </a>
   </p>
   
@@ -24,9 +24,9 @@
 
 ---
 
-## 🚀 About Me
+## 📝 About Me
 
-I'm **Temesgen**, a passionate **Full-Stack Developer** dedicated to building impactful, scalable solutions. My expertise spans the entire development lifecycle, from designing **clean, intuitive front-end interfaces** to engineering **robust and high-performance backend systems**.
+Hi ! I'm **Temesgen**, a passionate **Full-Stack Developer** dedicated to building impactful, scalable solutions. My expertise spans the entire development lifecycle, from designing **clean, intuitive front-end interfaces** to engineering **robust and high-performance backend systems**.
 
 I thrive on new challenges and believe that great code and thoughtful design go hand-in-hand to create truly exceptional **user experiences (UX)**. I'm always looking for opportunities to collaborate on projects that make a real difference.
 
@@ -36,45 +36,50 @@ I thrive on new challenges and believe that great code and thoughtful design go 
 
 ### **Frontend & Core Languages**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" height="80" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="80" height="80" alt="Vite" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" height="80" alt="Redux" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="80" height="80" alt="Vite" title="Vite" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" title="CSS3" />
 </div>
 
 ### **Backend, Database & ORM**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="80" height="80" alt="GraphQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" height="80" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="80" height="80" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80" alt="Express.js" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="80" height="80" alt="GraphQL" title="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" height="80" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="80" height="80" alt="Prisma" title="Prisma" />
 </div>
 
 ### **Other Languages (Strong Fundamentals)**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" height="80" alt="Go" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80" alt="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" height="80" alt="Go" title="Go" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80" alt="MATLAB" title="MATLAB" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/temupukki">
-    <img src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=buefy&hide_border=true&border_radius=15" alt="Temesgen's GitHub Stats" style="margin-right: 15px; margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=temupukki&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&border_radius=15" 
+         alt="Temesgen's GitHub Stats" 
+         style="margin-right: 15px; margin-bottom: 10px;" />
   </a>
+  
   <a href="https://github.com/temupukki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=buefy&hide_border=true&border_radius=15" alt="Top Languages" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temupukki&layout=compact&theme=dark&hide_border=true&border_radius=15" 
+         alt="Top Languages" 
+         style="margin-bottom: 10px;" />
   </a>
 </div>
 
@@ -82,7 +87,7 @@ I thrive on new challenges and believe that great code and thoughtful design go 
 
 <div align="center">
   <p>
-    Connect with me or check out my work! 👇
+    **Let's Connect!** Find me here 
   </p>
   <a href="https://linkedin.com/in/temesgen-gashaw-280827328" target="_blank" style="margin:0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
